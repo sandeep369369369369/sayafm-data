@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "Purani Haveli Ka Raaz",
+    "thumbnail": "https://i.ibb.co/dummy-dark-haveli.jpg",
+    "trending": true,
+    "episodes": [
+      {
+        "name": "Episode 1: Sannata",
+        "url": "https://archive.org/download/dummy-audio/episode1.mp3"
+      },
+      {
+        "name": "Episode 2: Saaya",
+        "url": "https://archive.org/download/dummy-audio/episode2.mp3"
+      },
+      {
+        "name": "Episode 3: Aakhri Raat (Locked)",
+        "url": "https://archive.org/download/dummy-audio/episode3.mp3"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Adhuri Cheekh",
+    "thumbnail": "https://i.ibb.co/dummy-dark-forest.jpg",
+    "trending": false,
+    "episodes": [
+      {
+        "name": "Episode 1: Bhram",
+        "url": "https://archive.org/download/dummy-audio/bhram1.mp3"
+      },
+      {
+        "name": "Episode 2: Maut Ka Khel",
+        "url": "https://archive.org/download/dummy-audio/bhram2.mp3"
+      }
+    ]
+  }
+]
